@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olegatortor/foodJS.git"
+    "url": "git+https://github.com/lilo1egator/Food/foodJS.git"
   },
   "author": "liloleg_",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olegatortor/foodJS/issues"
+    "url": "https://github.com/lilo1egator/Food/issues"
   },
-  "homepage": "https://github.com/olegatortor/foodJS#readme",
+  "homepage": "https://github.com/lilo1egator/Food/foodJS#readme",
   "browserslist": [
     "> 1%"
   ],

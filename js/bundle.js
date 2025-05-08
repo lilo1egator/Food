@@ -623,7 +623,7 @@ window.addEventListener('DOMContentLoaded', () => {
     inner: '.offer__slider-inner'
   });
   (0,_modules_tabs__WEBPACK_IMPORTED_MODULE_5__["default"])('.tabheader__items', '.tabcontent', '.tabheader__item', 'tabheader__item_active');
-  (0,_modules_timer__WEBPACK_IMPORTED_MODULE_6__["default"])('.timer', "2023-02-06:00:00");
+  (0,_modules_timer__WEBPACK_IMPORTED_MODULE_6__["default"])('.timer', "2025-10-06:00:00");
 });
 })();
 

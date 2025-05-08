@@ -26,5 +26,5 @@ window.addEventListener('DOMContentLoaded', () => {
         inner: '.offer__slider-inner'
     });
     tabs('.tabheader__items', '.tabcontent', '.tabheader__item', 'tabheader__item_active');
-    timer('.timer', "2023-02-06:00:00");
+    timer('.timer', "2025-10-06:00:00");
 }); 
